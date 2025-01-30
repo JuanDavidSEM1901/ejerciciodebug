@@ -30,6 +30,7 @@ public class Product {
 
     public void setStock(Integer stock) {
         this.stock = stock;
+        
     }
 
     
