@@ -7,6 +7,7 @@ public class Main {
         
         inventario.addProduct(new Product("Laptop", 10, 3000.0));
         inventario.addProduct(new Product("Iphone", 0, 5000.0));
+        inventario.addProduct(new Product("Laptop", 5, 3000.0));
 
         inventario.sellProduct("Laptop", 5);
         inventario.sellProduct("Iphone", 1);
